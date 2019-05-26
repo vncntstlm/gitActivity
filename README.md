@@ -1,6 +1,6 @@
 <h1>Welcome to this Git Activity
 
-<h2>Part One: Centralized Workflow
+<h2>Part One: Centralized Workflow</h2>
 
 The goal of this exercise is to introduce you to centralized workflows.  What that entails is learning about
 pulling, pushing, and dealing with merge conflicts.
@@ -56,7 +56,7 @@ Let us begin!
         is what was pulled.  You have to compare which one is the correct version (usually the one you just pulled) and change
         it so that it matches.
         
-<h2>Part Two: Feature Branch Workflow
+<h2>Part Two: Feature Branch Workflow</h2>
 
 The idea of having different branches is so that each feature is on a specific branch.  The master branch is not 
 supposed to have any broken code as it should be tested on on other branches.  
@@ -82,6 +82,4 @@ Merge the feature branch to master:
 ```text
     $ git merge <branch name>
 ```
-
-##Part Three: Pull Requests
 
