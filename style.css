@@ -38,6 +38,7 @@ hr {
     color: #FFFFFF;
 }
 
+/*For windowed screens if it is too small*/
 @media only screen and (max-width: 960px) {
     .card {
         width:75%;
