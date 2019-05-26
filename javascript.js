@@ -34,7 +34,7 @@ function newPerson() {
     document.getElementById('food').innerHTML = sport[randNumSport];
     document.getElementById('sport').innerHTML = food[randNumFood];
 
-    document.getElementById('name').style.color = '#DB5461';
+    document.getElementById('name').style.color = 'green';
     document.getElementById('food').style.color = 'red';
     document.getElementById('sport').style.color = 'blue';
 
