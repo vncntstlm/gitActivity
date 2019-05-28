@@ -1,47 +1,47 @@
-body {
-    background-color:#779ecb;
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
-}
+/*body {*/
+/*    background-color:#779ecb;*/
+/*    font-family: 'Avenir', Helvetica, Arial, sans-serif;*/
+/*}*/
 
-hr {
-    width: 75%;
-}
-.card {
-    background-color: white;
-    border-radius: 25px;
-    margin:15% 30%;
-}
-#title {
-    text-align: center;
-    padding-top:1%;
-}
+/*hr {*/
+/*    width: 75%;*/
+/*}*/
+/*.card {*/
+/*    background-color: white;*/
+/*    border-radius: 25px;*/
+/*    margin:15% 30%;*/
+/*}*/
+/*#title {*/
+/*    text-align: center;*/
+/*    padding-top:1%;*/
+/*}*/
 
-#sentence {
-    padding:1% 20% 1% 30%;
-}
+/*#sentence {*/
+/*    padding:1% 20% 1% 30%;*/
+/*}*/
 
-#button {
-    text-align:center;
-}
+/*#button {*/
+/*    text-align:center;*/
+/*}*/
 
 
-#button button {
-    width: 20%;
-    margin: 1% 0;
-    background: #5DA399;
-    border-radius: 15px;
-    font-family: 'Avenir', Helvetica, Arial, sans-serif;
-    font-style: normal;
-    font-size: 20px;
-    line-height: 35px;
-    text-align: center;
-    color: #FFFFFF;
-}
+/*#button button {*/
+/*    width: 20%;*/
+/*    margin: 1% 0;*/
+/*    background: #5DA399;*/
+/*    border-radius: 15px;*/
+/*    font-family: 'Avenir', Helvetica, Arial, sans-serif;*/
+/*    font-style: normal;*/
+/*    font-size: 20px;*/
+/*    line-height: 35px;*/
+/*    text-align: center;*/
+/*    color: #FFFFFF;*/
+/*}*/
 
-/*For windowed screens if it is too small*/
-@media only screen and (max-width: 960px) {
-    .card {
-        width:75%;
-        margin:10% 15%;
-    }
-}
+/*!*For windowed screens if it is too small*!*/
+/*@media only screen and (max-width: 960px) {*/
+/*    .card {*/
+/*        width:75%;*/
+/*        margin:10% 15%;*/
+/*    }*/
+/*}*/
