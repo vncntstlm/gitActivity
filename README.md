@@ -9,14 +9,14 @@ You can modify any of the files
 to experience and learn about git, but if you are new, we recommend starting with the three arrays in 
 javascript.js.
 
-Let us begin!
+<b>Let us begin!</b>
 
 1. Clone the repository from https://github.com/vncntstlm/gitActivity.git
     ```text
         $ cd/home/user/gitactivity
         $ git clone <link> 
     ```
-2. Make a meaninful change, we recommend making an addition to each of the array in javascript.js
+2. Make a meaningful change, we recommend making an addition to each of the arrays in javascript.js
 3. Add
     1. If you only want to add one file
         ```text
@@ -38,7 +38,10 @@ Let us begin!
 6. Resolve merge conflicts
     1. If you are the first person to push, then the change you made will be made in the respository.  You 
     can check this by going to github.com to see what is in your repo
-    2. If you are not the first, then you will have to resolve merge conflicts.  You will see something similar to this:
+    <br><b>OR</b>
+    
+    2. If you are not the first, then you will have to resolve merge conflicts.  In the command line, you will see a message
+    stating that there is a conflict and must be resolved.  When you open the file, you will see something similar to this:
         ```text
            <<<<<<< HEAD
            Foo
@@ -52,7 +55,7 @@ Let us begin!
         ```
         This will pull whatever is in the repository onto your computer and update the files accordingly.
         
-        Anything between <<<<<<<HEAD and ======= is what you currently have locally.  The things between ======= and >>>>>>> 
+        <b>Note: </b>Anything between <<<<<<<HEAD and ======= is what you currently have locally.  The things between ======= and >>>>>>> 
         is what was pulled.  You have to compare which one is the correct version (usually the one you just pulled) and change
         it so that it matches.
         
